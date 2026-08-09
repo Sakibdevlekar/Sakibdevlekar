@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2C,50:1B1464,100:6C1CD1&height=260&section=header&text=SAKIB%20DEVLEKAR&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20AWS&descAlignY=55&descSize=18&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C1CD1,50:A855F7,100:F3E8FF&height=260&section=header&text=SAKIB%20DEVLEKAR&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20AWS&descAlignY=55&descSize=18&animation=fadeIn">
-  <img alt="Sakib Devlekar - Backend Engineer Profile Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2C,50:1B1464,100:6C1CD1&height=260&section=header&text=SAKIB%20DEVLEKAR&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20AWS&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2C,50:1B1464,100:6C1CD1&height=260&section=header&text=SAKIB%20DEVLEKAR&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20AWS&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -136,9 +132,5 @@ I specialize in system design, API architecture, and writing clean, maintainable
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6C1CD1,100:0B0F2C&height=160&section=footer">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F3E8FF,100:6C1CD1&height=160&section=footer">
-    <img alt="Sakib Devlekar Profile Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C1CD1,100:0B0F2C&height=160&section=footer" width="100%"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C1CD1,100:0B0F2C&height=160&section=footer" width="100%"/>
 </div>
