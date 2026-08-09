@@ -42,9 +42,7 @@ I specialize in system design, API architecture, and writing clean, maintainable
 
 ### ⚙️ Backend & Frameworks
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" height="50" style="vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io Real-time Engine" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/>
-<img src="https://bullmq.io/images/favicon.ico" alt="BullMQ Message Queue" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" height="50" style="vertical-align: middle;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io Real-time Engine" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/><img src="https://bullmq.io/images/favicon.ico" alt="BullMQ Message Queue" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/>
 
 <br/><br/>
 
@@ -62,9 +60,7 @@ I specialize in system design, API architecture, and writing clean, maintainable
 
 ### ☁️ Cloud & Hosting
 <br/>
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" style="vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean Cloud Platform" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/>
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" style="vertical-align: middle;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean Cloud Platform" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" style="vertical-align: middle; margin-left: 10px;"/>
 
 <br/><br/>
 
@@ -76,10 +72,7 @@ I specialize in system design, API architecture, and writing clean, maintainable
 
 ### 🤖 AI Coding Tools
 <br/>
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claudecode-color.png" alt="Claude Code AI Assistant" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png" alt="Cursor AI Code Editor" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/>
-<img src="https://antigravity.google/favicon.ico" alt="Google Antigravity AI Engine" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/>
-<img src="https://lovable.dev/favicon.ico" alt="Lovable AI Web Builder" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claudecode-color.png" alt="Claude Code AI Assistant" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle;"/><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png" alt="Cursor AI Code Editor" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/><img src="https://antigravity.google/favicon.ico" alt="Google Antigravity AI Engine" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/><img src="https://lovable.dev/favicon.ico" alt="Lovable AI Web Builder" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/>
 
 </div>
 
