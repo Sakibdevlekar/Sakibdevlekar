@@ -42,29 +42,45 @@ I specialize in system design, API architecture, and writing clean, maintainable
 
 ### ⚙️ Backend & Frameworks
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" height="45"/>
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" height="45"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" height="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" height="45" style="vertical-align: middle;"/>
+<img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socketio" width="45" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 6px;"/>
+<img src="https://bullmq.io/images/favicon.ico" alt="bullmq" width="45" height="45" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 6px;"/>
+
 
 <br/><br/>
 
-### 🗄️ Databases
+### 🗄️ Databases & Caching
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" height="50"/>
+
+<br/>
+
+### 💻 Languages & Frontend
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind&theme=dark" height="50"/>
+
+<br/>
+
+### ☁️ Cloud & Hosting
+<br/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" style="vertical-align: middle;"/>
+<img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/>
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" style="vertical-align: middle; margin-left: 10px;"/>
+
+<br/>
+
+### 🛠️ Testing & Tools
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,postman,jest&theme=dark" height="50"/>
 
 <br/><br/>
 
-### 💻 Languages
+### 🤖 AI Coding Tools
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts&theme=dark" height="45"/>
-
-<br/><br/>
-
-### ☁️ Cloud, Testing & Tools
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,postman&theme=dark" height="45"/>
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" height="45"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" height="45"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claudecode-color.png" alt="claude-code" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle;"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png" alt="cursor" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/>
+<img src="https://antigravity.google/favicon.ico" alt="antigravity" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/>
+<img src="https://lovable.dev/favicon.ico" alt="lovable" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/>
 
 </div>
 
@@ -89,5 +105,5 @@ I specialize in system design, API architecture, and writing clean, maintainable
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C1CD1,100:0B0F2C&height=140&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C1CD1,100:0B0F2C&height=160&section=footer" width="100%"/>
 </div>
