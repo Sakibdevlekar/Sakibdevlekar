@@ -42,43 +42,43 @@ I specialize in system design, API architecture, and writing clean, maintainable
 
 ### ⚙️ Backend & Frameworks
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=express&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io Real-time Engine" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; margin: 0 5px; vertical-align: middle;"/><img src="https://bullmq.io/images/favicon.ico" alt="BullMQ Message Queue" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; margin: 0 5px; vertical-align: middle;"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" height="50"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io Real-time Engine" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box;"/>&nbsp;<img src="https://bullmq.io/images/favicon.ico" alt="BullMQ Message Queue" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box;"/>
 
 <br/><br/>
 
 ### 🗄️ Databases & Caching
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg" alt="ClickHouse Database" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=redis&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" height="50"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg" alt="ClickHouse Database" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box;"/>&nbsp;<img src="https://skillicons.dev/icons?i=redis&theme=dark" height="50"/>
 
 <br/><br/>
 
 ### 💻 Languages & Frontend
 <br/>
-<img src="https://skillicons.dev/icons?i=js&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=html&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=css&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=react&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind&theme=dark" height="50"/>
 
 <br/><br/>
 
 ### ☁️ Cloud & Infrastructure
 <br/>
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean Cloud Platform" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX Web Server" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=cloudinary&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean Cloud Platform" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box;"/>&nbsp;<img src="https://skillicons.dev/icons?i=vercel,nginx,linux,cloudinary&theme=dark" height="50"/>
 
 <br/><br/>
 
 ### 💳 Payments & Integrations
 <br/>
-<img src="https://assets.stripeassets.com/fzn2n1nzq965/nu0iR4KqmkdJ52fgRts09/c3a10df318e7ffb1f516073daadea625/favicon.ico" alt="Stripe Payment Gateway" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; margin: 0 5px; vertical-align: middle;"/><img src="https://razorpay.com/favicon.ico" alt="Razorpay Payment Gateway" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; margin: 0 5px; vertical-align: middle;"/>
+<img src="https://assets.stripeassets.com/fzn2n1nzq965/nu0iR4KqmkdJ52fgRts09/c3a10df318e7ffb1f516073daadea625/favicon.ico" alt="Stripe Payment Gateway" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box;"/>&nbsp;<img src="https://razorpay.com/favicon.ico" alt="Razorpay Payment Gateway" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box;"/>
 
 <br/><br/>
 
 ### 🛠️ Testing & Tools
 <br/>
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=git&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=jest&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/><img src="https://skillicons.dev/icons?i=swagger&theme=dark" height="50" style="margin: 0 5px; vertical-align: middle;"/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,postman,jest,swagger&theme=dark" height="50"/>
 
 <br/><br/>
 
 ### 🤖 AI Coding Tools
 <br/>
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claudecode-color.png" alt="Claude Code AI Assistant" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; margin: 0 5px; vertical-align: middle;"/><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png" alt="Cursor AI Code Editor" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; margin: 0 5px; vertical-align: middle;"/><img src="https://antigravity.google/favicon.ico" alt="Google Antigravity AI Engine" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; margin: 0 5px; vertical-align: middle;"/><img src="https://lovable.dev/favicon.ico" alt="Lovable AI Web Builder" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; margin: 0 5px; vertical-align: middle;"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claudecode-color.png" alt="Claude Code AI Assistant" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box;"/>&nbsp;<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png" alt="Cursor AI Code Editor" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box;"/>&nbsp;<img src="https://antigravity.google/favicon.ico" alt="Google Antigravity AI Engine" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box;"/>&nbsp;<img src="https://lovable.dev/favicon.ico" alt="Lovable AI Web Builder" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box;"/>
 
 </div>
 
