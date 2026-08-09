@@ -48,7 +48,7 @@ I specialize in system design, API architecture, and writing clean, maintainable
 
 ### 🗄️ Databases & Caching
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" height="50" style="vertical-align: middle;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg" alt="ClickHouse Database" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/><img src="https://skillicons.dev/icons?i=redis&theme=dark" height="50" style="vertical-align: middle; margin-left: 10px;"/>
 
 <br/><br/>
 
@@ -58,15 +58,21 @@ I specialize in system design, API architecture, and writing clean, maintainable
 
 <br/><br/>
 
-### ☁️ Cloud & Hosting
+### ☁️ Cloud & Infrastructure
 <br/>
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" style="vertical-align: middle;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean Cloud Platform" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" style="vertical-align: middle; margin-left: 10px;"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" style="vertical-align: middle;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean Cloud Platform" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" style="vertical-align: middle; margin-left: 10px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX Web Server" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/><img src="https://skillicons.dev/icons?i=linux,cloudinary&theme=dark" height="50" style="vertical-align: middle; margin-left: 10px;"/>
+
+<br/><br/>
+
+### 💳 Payments & Integrations
+<br/>
+<img src="https://assets.stripeassets.com/fzn2n1nzq965/nu0iR4KqmkdJ52fgRts09/c3a10df318e7ffb1f516073daadea625/favicon.ico" alt="Stripe Payment Gateway" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle;"/><img src="https://razorpay.com/favicon.ico" alt="Razorpay Payment Gateway" width="50" height="50" style="border-radius: 10px; background-color: #18191E; padding: 6px; box-sizing: border-box; vertical-align: middle; margin-left: 10px;"/>
 
 <br/><br/>
 
 ### 🛠️ Testing & Tools
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,postman,jest&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,postman,jest,swagger&theme=dark" height="50"/>
 
 <br/><br/>
 
